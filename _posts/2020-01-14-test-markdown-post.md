@@ -8,7 +8,7 @@ title: List of resources
 
 Here I will list the most important resources that we find 
 
-[khuyentran repo]([url](https://github.com/khuyentran1401/Data-science)) 
+[khuyentran repo](https://github.com/khuyentran1401/Data-science) 
 
 # Example Markdown Post
 
